@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="simpleconomy:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/simpleconomy_jar</output-path>
+    <output-path>$USER_HOME$/Desktop/Jan/jjmasterbuild/forge_server/mods/plugins</output-path>
     <root id="archive" name="simpleconomy.jar">
       <element id="module-output" name="simpleconomy" />
     </root>
