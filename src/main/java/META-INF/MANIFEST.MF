@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.github.jano1.simpleconomy.Main
+Main-Class: com.github.jano1.simpleconomy.SimplEconomy
 
